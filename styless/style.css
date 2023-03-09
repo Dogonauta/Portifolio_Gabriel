@@ -132,6 +132,11 @@ em {
         padding: 5% 0 0 0;
     }
 
+    .imagem{
+        width: 55%;
+        
+    }
+
     .botoes{
         width: 100%;
     }
