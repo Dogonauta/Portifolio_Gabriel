@@ -10,6 +10,7 @@
 
 # Pagina Mobile.
 
+![video mobile](./assets/video_versao_mobile.gif)
 
 ## Ferramentas utilizadas:
 
