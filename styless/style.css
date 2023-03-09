@@ -8,7 +8,7 @@
 
     --font-primaria: 'Krona One', sans-serif;
     --font-segundaria: 'Montserrat', sans-serif;
-    
+
     --font-tamanho1: 1.5rem;
     --font-tamanho2: 2.25rem;
 }
@@ -99,12 +99,12 @@ em {
 .redes {
     font-family: var(--font-primaria);
     text-align: center;
-    
+
 }
 
-.imagem{
+.imagem {
     width: 40%;
-    
+
 }
 
 .rodape {
@@ -123,29 +123,28 @@ em {
 }
 
 @media(max-width: 1200px) {
-    .grupo1{
+    .grupo1 {
         flex-direction: column-reverse;
+        padding: 15% 5%;
+        gap: 50px;
     }
 
-    .menu{
+    .menu {
         justify-content: center;
-        padding: 5% 0 0 0;
+        padding: 10% 0 0 0;
+        gap: 50px;
     }
 
-    .imagem{
-        width: 55%;
-        
+    .imagem {
+        width: 60%;
     }
 
-    .botoes{
+    .botoes {
         width: 100%;
     }
 
-    .grupo1{
-        padding: 5% 5%;
-    }
-    
-    .texto{
+    .texto {
         width: auto;
+
     }
 }
